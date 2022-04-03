@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @skarabee-tech
+- 👀 I’m interested in making games & programming in general
+- 🌱 I’m currently learning python & C++ and the Panda3D engine
+- 📫 You can reach me on: skarabee.tech@protonmail.com
